@@ -8,15 +8,15 @@ geostatistical and spatial methods.
 
 =================================================================
 ## Collaborators:
-Megan Mason
-Joel A Gongora
-Monica Vermillion
-William Henshaw
-Michael Loso
-Colin Quinn
-Eric Morway
-Ellen Van De Vijver
-Fiona West
+1. Megan Mason
+2. Joel A Gongora
+3. Monica Vermillion
+4. William Henshaw
+5. Michael Loso
+6. Colin Quinn
+7. Eric Morway
+8. Ellen Van De Vijver
+9. Fiona West
 
 # Objectives:
 ```
