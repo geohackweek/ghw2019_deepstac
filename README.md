@@ -11,7 +11,7 @@ geostatistical and spatial methods.
 ```
 1. git clone https://github.com/geohackweek/ghw2019_deepsnow.git
 2. navigate to directory. 
-3. *run* conda create -f environment.yml
+3. __run__ conda create -f environment.yml
 
 ```
 
