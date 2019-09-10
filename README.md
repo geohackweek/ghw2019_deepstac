@@ -20,7 +20,11 @@ Fiona West
 
 # Objectives:
 ```
-1. 
+1. Gain knowledge in manipulating and managing multi-dimensional
+   spatio-temporal datasets via python package.
+2. Learn about the pipeline necessary to develop a
+   deep learning product. 
+3. Learn how to extract variable importance from a model. 
 ```
 ## Getting Started:
 
