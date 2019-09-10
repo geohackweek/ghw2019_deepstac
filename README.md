@@ -21,6 +21,7 @@ Contains pickled models.
 ```
 ## data
 ```
-This folder will contain the data you need for this project: however it
+This folder will contain the data you need for this project: 
+however it
 will be ignored by the .gitignore.
 ```
