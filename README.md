@@ -25,6 +25,15 @@ geostatistical and spatial methods.
    deep learning product. 
 3. Learn how to extract variable importance from a model. 
 ```
+# Scientific Questions:
+```
+1. What are the spatio-temporal patterns of accumulation and melt?
+2. What is the relationship of different topographic variable to the 
+   accumulation and melt patterns?
+3. What is the relationsihp of different climatic variables to the 
+   accumulation and melt in patterns?
+```
+
 ## Getting Started:
 
 ```
