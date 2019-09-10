@@ -6,7 +6,6 @@ The Project will house a Keras implementation of CNN, as well as, various
 geostatistical and spatial methods. 
 ```
 
-=================================================================
 ## Collaborators:
 1. Megan Mason
 2. Joel A Gongora
