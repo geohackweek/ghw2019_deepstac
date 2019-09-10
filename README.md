@@ -1,4 +1,4 @@
-# deepsnow
+# deepstack
 keras implementation for spatio-temporal data. 
 
 ```
@@ -23,7 +23,8 @@ geostatistical and spatial methods.
    spatio-temporal datasets via python package.
 2. Learn about the pipeline necessary to develop a
    deep learning product. 
-3. Learn how to extract variable importance from a model. 
+3. 
+3. Learn how to extract variable importance from a model
 ```
 # Scientific Questions:
 ```
