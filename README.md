@@ -7,9 +7,22 @@ geostatistical and spatial methods.
 ```
 
 =================================================================
+## Collaborators:
+Megan Mason
+Joel A Gongora
+Monica Vermillion
+William Henshaw
+Michael Loso
+Colin Quinn
+Eric Morway
+Ellen Van De Vijver
+Fiona West
 
-
-# Getting Started
+# Objectives:
+```
+1. 
+```
+## Getting Started:
 
 ```
 1. git clone https://github.com/geohackweek/ghw2019_deepsnow.git
