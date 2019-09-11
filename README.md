@@ -38,9 +38,10 @@ geostatistical and spatial methods.
 ## Getting Started:
 
 ```
-1. git clone https://github.com/geohackweek/ghw2019_deepsnow.git
-2. navigate to directory. 
+1. git clone https://github.com/geohackweek/ghw2019_deepstac.git
+2. cd ghw2019_deepstac
 3. run conda create -f environment.yml
+4. bash ./scripts/download_s3_data.sh
 
 ```
 
