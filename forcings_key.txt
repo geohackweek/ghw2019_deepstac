@@ -13,5 +13,5 @@ srad_2015.nc,    primary,    downward surface shortwave radiation
 th_2015.nc,      primary,    humidity
 tmmn_2015.nc,    primary,    minimum temperature
 tmmx_2015.nc,    primary,    maximum temperature
-vpd_2015.nc,     derived,    vapor pressure deficit,
+vpd_2015.nc,     derived,    vapor pressure deficit
 vs_2015.nc,      primary,    wind velocity
