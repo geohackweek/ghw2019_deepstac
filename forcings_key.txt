@@ -1,17 +1,17 @@
-bi_2015.nc      derived    Burning Index [fuel model G (conifer forest)]
-erc_2015.nc     derived    Energy Release Component [fuel model G (conifer forest)]
-etr_2015.nc     derived    Reference evapotranspiration (ASCE Penman-Montieth)
-fm1000_2015.nc  derived    1000-hour dead fuel moisture
-fm100_2015.nc   derived    100-hour dead fuel moisture
-pdsi_2015.nc    derived    10-day Palmer Drought Severity Index
-pet_2015.nc     derived    Reference evapotranspiration 
-pr_2015.nc      primary    precipitation accumulation
-rmax_2015.nc    primary    maximum relative humidity
-rmin_2015.nc    primary    minimum relative humidity
-sph_2015.nc     primary    specific humidity          
-srad_2015.nc    primary    downward surface shortwave radiation
-th_2015.nc      primary    humidity
-tmmn_2015.nc    primary    minimum temperature
-tmmx_2015.nc    primary    maximum temperature
-vpd_2015.nc     derived    vapor pressure deficit,
-vs_2015.nc      primary    wind velocity
+bi_2015.nc,      derived,    Burning Index [fuel model G (conifer forest)]
+erc_2015.nc,     derived,    Energy Release Component [fuel model G (conifer forest)]
+etr_2015.nc,     derived,    Reference evapotranspiration (ASCE Penman-Montieth)
+fm1000_2015.nc,  derived,    1000-hour dead fuel moisture
+fm100_2015.nc,   derived,    100-hour dead fuel moisture
+pdsi_2015.nc,    derived,    10-day Palmer Drought Severity Index
+pet_2015.nc,     derived,    Reference evapotranspiration 
+pr_2015.nc,      primary,    precipitation accumulation
+rmax_2015.nc,    primary,    maximum relative humidity
+rmin_2015.nc,    primary,    minimum relative humidity
+sph_2015.nc,     primary,    specific humidity          
+srad_2015.nc,    primary,    downward surface shortwave radiation
+th_2015.nc,      primary,    humidity
+tmmn_2015.nc,    primary,    minimum temperature
+tmmx_2015.nc,    primary,    maximum temperature
+vpd_2015.nc,     derived,    vapor pressure deficit,
+vs_2015.nc,      primary,    wind velocity
