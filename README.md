@@ -10,7 +10,7 @@ geostatistical and spatial methods.
 1. Megan Mason
 2. Joel A Gongora
 3. Monica Vermillion
-4. William Henshaw
+4. Billy Henshaw
 5. Michael Loso
 6. Colin Quinn
 7. Eric Morway
@@ -38,9 +38,10 @@ geostatistical and spatial methods.
 ## Getting Started:
 
 ```
-1. git clone https://github.com/geohackweek/ghw2019_deepsnow.git
-2. navigate to directory. 
+1. git clone https://github.com/geohackweek/ghw2019_deepstac.git
+2. cd ghw2019_deepstac
 3. run conda create -f environment.yml
+4. bash ./scripts/download_s3_data.sh
 
 ```
 
