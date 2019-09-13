@@ -10,7 +10,7 @@ geostatistical and spatial methods.
 1. Megan Mason
 2. Joel A Gongora
 3. Monica Vermillion
-4. William Henshaw
+4. Billy Henshaw
 5. Michael Loso
 6. Colin Quinn
 7. Eric Morway
