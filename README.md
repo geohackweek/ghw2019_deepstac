@@ -10,7 +10,7 @@ geostatistical and spatial methods.
 1. Megan Mason
 2. Joel A Gongora
 3. Monica Vermillion
-4. William Henshaw
+4. Billy Henshaw
 5. Michael Loso
 6. Colin Quinn
 7. Eric Morway
@@ -53,6 +53,10 @@ This folder contains scipts with modularized functions or classes.
 ```
 This folder contains all complete notebooks.
 ```
+1. jag
+    This folder contains 
+
+
 ## models
 ```
 Contains pickled models. 
