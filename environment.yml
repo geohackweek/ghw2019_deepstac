@@ -14,5 +14,7 @@ dependencies:
 - keras
 - seaborn
 - scikit-learn
+- glob
+- netcdf4
 - pip:
     - tensorflow==2.0.0-rc0

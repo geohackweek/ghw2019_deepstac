@@ -53,6 +53,10 @@ This folder contains scipts with modularized functions or classes.
 ```
 This folder contains all complete notebooks.
 ```
+1. jag
+    This folder contains 
+
+
 ## models
 ```
 Contains pickled models. 
