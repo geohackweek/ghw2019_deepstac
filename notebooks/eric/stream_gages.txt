@@ -1,0 +1,8 @@
+    gage                                          description        latitude       longitude    drainage_area_sqmi        params
+11276900            "TUOLUMNE R BL EARLY INTAKE NR MATHER CA"       37°52'54"      119°58'09"                   487           Q,T
+11276600            "TUOLUMNE R AB EARLY INTAKE NR MATHER CA"       37°52'46"      119°56'46"                   484           Q,T
+11276500                      "TUOLUMNE R NR HETCH HETCHY CA"       37°56'15"      119°47'50"                   457           Q,T
+11274790 "TUOLUMNE R A GRAND CYN OF TUOLUMNE AB HETCH HETCHY"       37°55'00"      119°39'32"                   301   Q,T,EC,Turb
+
+
+
